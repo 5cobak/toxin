@@ -42,7 +42,7 @@
     "ion-rangeslider": "^2.3.1",
     "nan": "^2.14.1",
     "optimize-css-assets-webpack-plugin": "^5.0.3",
-    "pug": "^3.0.0",
+    "pug": "^3.0.1",
     "pug-loader": "^2.4.0",
     "pxtorem-webpack-plugin": "^0.2.2",
     "sass": "^1.32.4",
